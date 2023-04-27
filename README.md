@@ -3,9 +3,9 @@
 
 ## ÍNDICE
 * [Intro](https://github.com/MirandaJaramillo/Google-Clone/blob/main/README.md#-intro)
-* [¿Qué construí?]()
-* [Objetivo del Proyecto]()
-* [¡Link al Demo!]()
+* [¿Qué construí?](https://github.com/MirandaJaramillo/Google-Clone/blob/main/README.md#-qu%C3%A9-constru%C3%AD)
+* [Objetivo del Proyecto](https://github.com/MirandaJaramillo/Google-Clone/blob/main/README.md#-objetivo-del-proyecto)
+* [¡Link al Demo!](https://github.com/MirandaJaramillo/Google-Clone/blob/main/README.md#-link-al-demo)
 
 ***
 
