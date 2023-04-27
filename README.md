@@ -2,7 +2,7 @@
 ###### ✨ Creado con HTML5 y CSS3 en el bootcamp de TecnolochicasPro ✨
 
 ## ÍNDICE
-* [Intro](# intro)
+* [Intro](https://github.com/MirandaJaramillo/Google-Clone/blob/main/README.md#-intro)
 * [¿Qué construí?]()
 * [Objetivo del Proyecto]()
 * [¡Link al Demo!]()
