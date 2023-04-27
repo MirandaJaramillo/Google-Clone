@@ -29,6 +29,10 @@ Aprender a utilizar las etiquetas de HTML5 y las propiedades de CSS3; así como 
 Visualiza mi proyecto terminado aquí 👉🏾 [Clonación de Google](http://mirandajaramillo.github.io/Google-Clone/)
 
 
+![clone-google](https://user-images.githubusercontent.com/96328329/234746858-b0f34e1f-43d2-4311-a75b-70418614212a.png)
+
+
+
 
 
 
